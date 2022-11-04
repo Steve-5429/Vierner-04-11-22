@@ -53,12 +53,12 @@
                         <div class="p-6">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://www.pinterest.com/pin/606719381050145144/" class="underline text-gray-900 dark:text-white">Documentation</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e3/cd/3b/un-dia-de-relax-hermoso.jpg?w=1200&h=-1&s=1" class="underline text-gray-900 dark:text-white">laguna de los milagros</a></div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                               Hola como estas Todo bien !!
+                                cLa laguna de los milagros se encuentra ubicado el el departamento de Huánuco en la ciudad de Tingo Maria, exactamente en el caserio de los milagros
                                 </div>
                             </div>
                         </div>
@@ -66,9 +66,9 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-t-0 md:border-l">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"></path><path d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://www.xatakafoto.com/" class="underline text-gray-900 dark:text-white">Camara de Recuerdos</a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/dd/6b/67/20160829-161350-largejpg.jpg?w=1200&h=1200&s=1" class="underline text-gray-900 dark:text-white">Cueva de las lechusas</a></div>
                             </div>
-                             Guarde sus mejores ft para recordatorio :)
+                            La cueva alberga a una importante colonia de aves conocidas como guácharos o santanas
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                 
@@ -79,9 +79,10 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://frases.top/pensamientos-positivos/" class="underline text-gray-900 dark:text-white">Mensajes de reflectivos </a></div>
+                                <div class="ml-4 text-lg leading-7 font-semibold"><a href="https://4.bp.blogspot.com/-ZCp7-DCFm0o/WIuL0uJSmRI/AAAAAAAA5WQ/nVzpjZVj8A0L-QVm5IBUi_mKTkmsY7iPQCLcB/s1600/paraiso-verde-aserradero0.jpg" class="underline text-gray-900 dark:text-white">Aserradero </a></div>
                             </div>
-                            Comparte tus mensaje para inspirar :D
+                            “ Centro Turístico Paraiso Verde Aserradero"
+                            Centro recreativo con variados atractivos para disfrutar de momentos agradables con la familia y amigos.
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
@@ -93,12 +94,12 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Vibrant Ecosystem</div>
+                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Cuevas de las Pavas </div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                La robusta biblioteca de herramientas y bibliotecas propias de Laravel, como <a href="https://forge.laravel.com" class="underline">
+                                Uno de esos atractivos es la Cueva de las Pavas, un espacio edénico que se encuentra en Tingo María, en la región de Huánuco <a href="Uno de esos atractivos es la Cueva de las Pavas, un espacio edénico que se encuentra en Tingo María, en la región de Huánuco" class="underline">
                                 </div>
                             </div>
                         </div>
